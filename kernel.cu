@@ -2,7 +2,7 @@
 //  CasAES_CUDA.c
 //  CasAES_CUDA
 //  Created by Carter McCardwell on 11/11/14.
-//
+// Modified by Niraj Surati Nov/5/2018
 
 #include <stdint.h>
 #include <stdio.h>
